@@ -10,9 +10,9 @@
 <p align="center">
     <samp style="font-weight:550;font-style: italic">
         <ul>
-            <li> Computer Vision Engineer at the <a href="https://alleninstitute.org/division/neural-dynamics/">Allen Institute for Neural Dynamics</a>. :computer:</li>
-            <li> M.Sc. <a href="https://medellin.unal.edu.co/">National University of Colombia</a>. :mortar_board:</li>
-            <li> Currently working on image processing cloud pipelines for light-sheet microscope images, semantic segmentation and image processing evaluation. :octocat:</li>
+            <li> Computer Vision Engineer at the <a href="https://alleninstitute.org/division/neural-dynamics/">Allen Institute for Neural Dynamics</a>.</li>
+            <li> M.Sc. <a href="https://medellin.unal.edu.co/">National University of Colombia</a>.</li>
+            <li> Currently working on image processing cloud pipelines for light-sheet microscope images, semantic segmentation and image processing evaluation.</li>
         </ul>
     </samp><br>
     <a href="https://www.linkedin.com/in/camilolaiton" target="_blank">
@@ -24,8 +24,6 @@
     <a href="https://instagram.com/camilo_laiton" target="_blank">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://www.facebook.com/laitoncamilo" target="_blank">
-        <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=blue" alt="Facebook"/>
     </a>
     <br><br>
     <samp style="font-weight:550;align=center"><br>:city_sunset: Seattle, WA.</samp>
