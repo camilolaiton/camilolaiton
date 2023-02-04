@@ -1,5 +1,5 @@
 <h3 align="center">
-    <samp>&gt; Hello! I am
+    <samp>  Hello! :wave: I am
             <b><a target="_blank" href="https://camilolaiton.github.io/portfolio/">Camilo Laiton</a></b>
     :colombia:
     </samp>
@@ -10,25 +10,14 @@
 <p align="center">
 
   <samp style="font-weight:550;font-style: italic">
-      - Computer Vision Engineer at the <a href="https://alleninstitute.org/division/neural-dynamics/">Allen Institute for Neural Dynamics</a>.
-      - M.Sc. <a href="https://medellin.unal.edu.co/">National University of Colombia</a>
-      - Currently working on image processing cloud pipelines for light-sheet microscope images, semantic segmentation and image processing evaluation.
-  </samp>
-    
-    ```mermaid
-	journey
-		title Academic Journey
-		section B.Sc. University of Magdalena
-		[Undergrad thesis](http://www.arpnjournals.org/jeas/research_papers/rp_2022/jeas_0122_8822.pdf)
-		section M.Sc. National University of Colombia
-			[Master Thesis Paper](https://doi.org/10.3390/s22072559)
-			[Colombian Government Project Paper](https://doi.org/10.3390/s22072491)
-    ```
-    
-    <br>
-    <samp style="font-weight:550"><br>:city_sunset: Seattle, WA.</samp>
-    
-    <br><br>
+    <ul>
+        <li> :computer: Computer Vision Engineer at the <a href="https://alleninstitute.org/division/neural-dynamics/">Allen Institute for Neural Dynamics</a>.</li>
+        <li> :mortar_board: M.Sc. <a href="https://medellin.unal.edu.co/">National University of Colombia</a></li>
+        <li> :octocat: Currently working on image processing cloud pipelines for light-sheet microscope images, semantic segmentation and image processing evaluation.</li>
+    </ul>
+  </samp><br>
+  
+  <samp style="font-weight:550"><br>:city_sunset: Seattle, WA.</samp><br><br>
 
   <a href="https://www.linkedin.com/in/camilolaiton" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -43,3 +32,13 @@
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=blue" alt="Facebook"/>
   </a>
 </p>
+
+```mermaid
+	journey
+		title Academic Journey
+		section B.Sc. University of Magdalena
+		[Undergrad thesis](http://www.arpnjournals.org/jeas/research_papers/rp_2022/jeas_0122_8822.pdf)
+		section M.Sc. National University of Colombia
+			[Master Thesis Paper](https://doi.org/10.3390/s22072559)
+			[Colombian Government Project Paper](https://doi.org/10.3390/s22072491)
+```
