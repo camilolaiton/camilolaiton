@@ -21,9 +21,6 @@
     <a href="https://orcid.org/0000-0001-8488-8753" target="_blank">
         <img src="https://img.shields.io/badge/orcid-%231877F2.svg?&style=for-the-badge&logo=orcid&logoColor=white&color=green" alt="Orcid"/>
     </a>
-    <a href="https://instagram.com/camilo_laiton" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
     </a>
     <br><br>
     <samp style="font-weight:550;align=center"><br>:city_sunset: Seattle, WA.</samp>
