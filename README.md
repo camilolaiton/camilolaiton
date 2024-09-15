@@ -12,7 +12,7 @@
         <ul>
             <li> Computer Vision Engineer at the <a href="https://alleninstitute.org/division/neural-dynamics/">Allen Institute for Neural Dynamics</a>.</li>
             <li> M.Sc. <a href="https://medellin.unal.edu.co/">National University of Colombia</a>.</li>
-            <li> Currently working on image processing cloud pipelines for light-sheet microscope images, semantic segmentation and image processing evaluation.</li>
+            <li> Currently working on cloud image processing pipelines for large-scale light-sheet microscope images. Some projects I am working on are brain image registration, image segmentation, RNA detection and image processing evaluation.</li>
         </ul>
     </samp><br>
     <a href="https://www.linkedin.com/in/camilolaiton" target="_blank">
