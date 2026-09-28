@@ -10,9 +10,9 @@
 <p align="center">
     <samp style="font-weight:550;font-style: italic">
         <ul>
-            <li> Computer Vision Engineer at the <a href="https://alleninstitute.org/division/neural-dynamics/">Allen Institute for Neural Dynamics</a>.</li>
+            <li> Computer Vision and Machine Learning Engineer at the <a href="https://alleninstitute.org/neural-dynamics">Allen Institute</a>.</li>
             <li> M.Sc. <a href="https://medellin.unal.edu.co/">National University of Colombia</a>.</li>
-            <li> Currently working on cloud image processing pipelines for large-scale light-sheet microscope images. Some projects I am working on are brain image registration, image segmentation, RNA detection and image processing evaluation.</li>
+            <li> I work on developing high-standard, cloud-based large-scale image processing algorithms and pipelines based on deep learning and traditional methods for microscope images. Some projects I am working on are brain image registration, image segmentation, RNA object detection, stitching, spectral unmixing, protein discovery from NHS-ester dye. <a href="https://camilolaiton.github.io/me">Take a look at some of my work</a>!</li>
         </ul>
     </samp><br>
     <a href="https://www.linkedin.com/in/camilolaiton" target="_blank">
