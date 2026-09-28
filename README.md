@@ -1,7 +1,6 @@
 <h3 align="center">
     <samp>  Hello! I am
-            <b><a target="_blank" href="https://camilolaiton.github.io/portfolio/">Camilo Laiton</a></b>
-    :colombia:
+            <b><a target="_blank" href="https://camilolaiton.github.io/me/">Camilo Laiton</a></b>
     </samp>
 </h3>
 
@@ -11,7 +10,7 @@
     <samp style="font-weight:550;font-style: italic">
         <ul>
             <li> Computer Vision and Machine Learning Engineer at the <a href="https://alleninstitute.org/neural-dynamics">Allen Institute</a>.</li>
-            <li> M.Sc. <a href="https://medellin.unal.edu.co/">National University of Colombia</a>.</li>
+            <li> M.Sc. <a href="https://medellin.unal.edu.co/">Universidad Nacional de Colombia</a>.</li>
             <li> I work on developing high-standard, cloud-based large-scale image processing algorithms and pipelines based on deep learning and traditional methods for microscope images. Some projects I am working on are brain image registration, image segmentation, RNA object detection, stitching, spectral unmixing, protein discovery from NHS-ester dye. <a href="https://camilolaiton.github.io/me">Take a look at some of my work</a>!</li>
         </ul>
     </samp><br>
